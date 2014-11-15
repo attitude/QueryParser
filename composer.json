@@ -1,0 +1,12 @@
+{
+    "name": "attitude/QueryParser",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/attitude/Exception.git"
+        }
+    ],
+    "require": {
+        "attitude/Exception": "dev-master"
+    }
+}
